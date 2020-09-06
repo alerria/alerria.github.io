@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>𝑯𝑶𝑴𝑬 on Alerria</title>
+    <link>https://charlotte-swan.github.io/Alerria/</link>
+    <description>Recent content in 𝑯𝑶𝑴𝑬 on Alerria</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Aug 2020 17:15:09 +0100</lastBuildDate>
+    
+	<atom:link href="https://charlotte-swan.github.io/Alerria/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>𝑪𝑼𝑺𝑻𝑶𝑴 𝑹𝑰𝑵𝑮𝑺</title>
+      <link>https://charlotte-swan.github.io/Alerria/customrings/</link>
+      <pubDate>Wed, 19 Aug 2020 22:03:39 +0100</pubDate>
+      
+      <guid>https://charlotte-swan.github.io/Alerria/customrings/</guid>
+      <description>   Syntax Description Test Text     Header Title Here&amp;rsquo;s this   Paragraph Text And more    </description>
+    </item>
+    
+    <item>
+      <title>𝑶𝑽𝑨𝑳 𝑹𝑰𝑵𝑮𝑺</title>
+      <link>https://charlotte-swan.github.io/Alerria/ovalrings/</link>
+      <pubDate>Wed, 19 Aug 2020 22:02:35 +0100</pubDate>
+      
+      <guid>https://charlotte-swan.github.io/Alerria/ovalrings/</guid>
+      <description>   Syntax Description Test Text     Header Title Here&amp;rsquo;s this   Paragraph Text And more    </description>
+    </item>
+    
+    <item>
+      <title>𝑩𝑼𝑩𝑩𝑳𝑬 𝑹𝑰𝑵𝑮𝑺</title>
+      <link>https://charlotte-swan.github.io/Alerria/bubblerings/</link>
+      <pubDate>Wed, 19 Aug 2020 21:59:04 +0100</pubDate>
+      
+      <guid>https://charlotte-swan.github.io/Alerria/bubblerings/</guid>
+      <description>   Syntax Description Test Text     Header Title Here&amp;rsquo;s this   Paragraph Text And more    </description>
+    </item>
+    
+    <item>
+      <title>𝑺𝑸𝑼𝑨𝑹𝑬 𝑹𝑰𝑵𝑮𝑺</title>
+      <link>https://charlotte-swan.github.io/Alerria/squarerings/</link>
+      <pubDate>Wed, 19 Aug 2020 15:44:44 +0100</pubDate>
+      
+      <guid>https://charlotte-swan.github.io/Alerria/squarerings/</guid>
+      <description>   Syntax Description Test Text     Header Title Here&amp;rsquo;s this   Paragraph Text And more    </description>
+    </item>
+    
+  </channel>
+</rss>
